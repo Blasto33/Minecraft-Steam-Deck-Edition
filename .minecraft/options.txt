@@ -133,6 +133,10 @@ key_key.midnightcontrols.look_down:key.keyboard.keypad.2
 key_key.midnightcontrols.look_left:key.keyboard.keypad.4
 key_key.midnightcontrols.ring:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.f10
+key_key.raised.hud.down:key.keyboard.keypad.subtract
+key_key.raised.hud.up:key.keyboard.keypad.add
+key_key.raised.chat.down:key.keyboard.keypad.divide
+key_key.raised.chat.up:key.keyboard.keypad.multiply
 soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0
