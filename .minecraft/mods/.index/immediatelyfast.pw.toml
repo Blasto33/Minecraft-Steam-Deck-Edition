@@ -1,0 +1,14 @@
+name = "ImmediatelyFast"
+filename = "ImmediatelyFast-1.1.17+1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/24BUZiRe/ImmediatelyFast-1.1.17%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "b3973e295ff7cea50b9a48959c38b5303da231b8c229680cb2cfec44913be9c1236e86e1e71a7714674823ee02528fc5492eecc1a31bd5f955b3409925951a97"
+
+[update]
+[update.modrinth]
+mod-id = "5ZwdcRci"
+version = "24BUZiRe"

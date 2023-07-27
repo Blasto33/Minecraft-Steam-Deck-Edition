@@ -1,0 +1,14 @@
+name = "CompleteConfig"
+filename = "completeconfig-2.4.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/GtqG8z1h/versions/DBWiFPtY/completeconfig-2.4.1.jar"
+hash-format = "sha512"
+hash = "46db78553f75dd184c07ceef4326b50c3cfa41d8774582acef316df1b9fc23ad7cbac402d426686ddde2f9d68788da75bed81f62b281535837c4d79237b38852"
+
+[update]
+[update.modrinth]
+mod-id = "GtqG8z1h"
+version = "DBWiFPtY"
