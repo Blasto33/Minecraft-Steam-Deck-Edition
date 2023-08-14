@@ -1,6 +1,5 @@
-![Minecraft Steam Deck Edition Logo](https://i.imgur.com/GHUfShe.png)
-
 <p align="center">
+  <img src="https://i.imgur.com/r3cZQrX.png" alt="Minecraft Steam Deck Edition Logo" width="720" />
   <h2 align="center">A Vanilla+ modpack carefully handcrafted to be solely played on the Steam Deck. Don't play Minecraft Vanilla, play this modpack!</h2>
   <p align="center">
     <a href="https://fabricmc.net/">
