@@ -2,7 +2,6 @@
 
 <p align="center">
   <h2 align="center"><a href="https://modrinth.com/modpack/minecraft-steam-deck-edition">Minecraft: Steam Deck Edition</a></h2>
-  A Vanilla+ modpack carefully handcrafted to be solely played on the Steam Deck. Don't play Minecraft Vanilla, play this modpack!
   Un modpack Vanilla+ soigneusement conçu pour être joué exclusivement sur le Steam Deck de Valve. Ne jouez plus au Vanilla mais plutôt à ce modpack !
   <p align="center">
     <br />
