@@ -1,0 +1,14 @@
+name = "YUNG's API"
+filename = "YungsApi-1.20-Fabric-4.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Ua7DFN59/versions/NmrTF2A5/YungsApi-1.20-Fabric-4.0.1.jar"
+hash-format = "sha512"
+hash = "ff336a6e3167f36ae4d6ac7c133626a4cc6f95a16576fddc242ad6fe8538137bb29c454c8e0fc1c47bf6a5a9225d43fc41f0d57f1be1b7c8b270a4c2a367762b"
+
+[update]
+[update.modrinth]
+mod-id = "Ua7DFN59"
+version = "NmrTF2A5"

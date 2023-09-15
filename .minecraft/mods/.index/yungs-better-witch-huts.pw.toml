@@ -1,0 +1,14 @@
+name = "YUNG's Better Witch Huts"
+filename = "YungsBetterWitchHuts-1.20-Fabric-3.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/t5FRdP87/versions/ymnwqLI1/YungsBetterWitchHuts-1.20-Fabric-3.0.1.jar"
+hash-format = "sha512"
+hash = "e52600def8bc85ac64e60672d05a727aa718cfa3147384bb419cff4d3c5e1cc01e8db95cf65bc4fa030ccc4d077e2f994fbb70bf9aa89ed9dc3ca04ee6352040"
+
+[update]
+[update.modrinth]
+mod-id = "t5FRdP87"
+version = "ymnwqLI1"

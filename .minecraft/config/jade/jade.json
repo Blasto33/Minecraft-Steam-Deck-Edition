@@ -4,7 +4,7 @@
     "displayBlocks": true,
     "displayEntities": false,
     "displayBosses": false,
-    "displayMode": "HOLD_KEY",
+    "displayMode": "TOGGLE",
     "hideFromDebug": true,
     "hideFromTabList": true,
     "enableTextToSpeech": false,
@@ -20,7 +20,7 @@
   "overlay": {
     "overlayPosX": 0.5,
     "overlayPosY": 1.0,
-    "overlayScale": 1.0,
+    "overlayScale": 1.0021739,
     "overlayAnchorX": 0.5,
     "overlayAnchorY": 0.0,
     "overlaySquare": true,
