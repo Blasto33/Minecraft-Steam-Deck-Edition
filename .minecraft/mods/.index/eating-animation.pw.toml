@@ -1,14 +1,14 @@
 name = "Eating Animation"
-filename = "eating-animation-1.9.4+1.20.jar"
+filename = "eating-animation-1.20+1.9.5-CMDfix.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/rUgZvGzi/versions/OcHlWpeQ/eating-animation-1.9.4%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/rUgZvGzi/versions/RG3MoH9k/eating-animation-1.20%2B1.9.5-CMDfix.jar"
 hash-format = "sha512"
-hash = "5ad4ee358875167f35cd1cd9720c82bd71728001cbd7369a51f114e6f01b92899a1299430366be925ca64e0a4d3572ba48b942472e2440203c65859db5c0d330"
+hash = "eac032e0fe7afd86fe27118cac528f69a6d2a38b995b42bfce15abb19511509ba7be4c2453d5b3cb07120ac80bbb0b3abc9de335ddd7cfae4dcaf67e3ba38b30"
 
 [update]
 [update.modrinth]
 mod-id = "rUgZvGzi"
-version = "OcHlWpeQ"
+version = "RG3MoH9k"

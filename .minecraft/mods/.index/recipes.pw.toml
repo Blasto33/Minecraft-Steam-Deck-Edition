@@ -1,0 +1,14 @@
+name = "Recipe Unlocker"
+filename = "recipe-unlocker-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/J1nJ0y6I/versions/pQxy15EP/recipe-unlocker-1.0.1.jar"
+hash-format = "sha512"
+hash = "369ae10bb816f0426db4ea5aaf47975d1fc296a0760ee76ff3701d9b43b0f60d536597883049cd66b5fa72dd92cb8fee97e7a792a509b8c079e65e502bda6b08"
+
+[update]
+[update.modrinth]
+mod-id = "J1nJ0y6I"
+version = "pQxy15EP"

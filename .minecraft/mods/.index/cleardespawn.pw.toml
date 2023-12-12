@@ -1,0 +1,14 @@
+name = "Clear Despawn"
+filename = "ClearDespawn-fabric-1.20.2-1.1.15.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/yoJJjRRE/versions/jpRIGRtD/ClearDespawn-fabric-1.20.2-1.1.15.jar"
+hash-format = "sha512"
+hash = "d96313239c52fae58bc4d63d213fc7b84e93d021c537fb2236d797c9283c5ea07dd918494778252b487aec910edee2b2345e09106eb1c6994f6c75a2984af5f1"
+
+[update]
+[update.modrinth]
+mod-id = "yoJJjRRE"
+version = "jpRIGRtD"

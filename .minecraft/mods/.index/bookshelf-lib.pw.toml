@@ -1,0 +1,14 @@
+name = "Bookshelf"
+filename = "Bookshelf-Fabric-1.20.1-20.1.6.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/uy4Cnpcm/versions/do4zQJJA/Bookshelf-Fabric-1.20.1-20.1.6.jar"
+hash-format = "sha512"
+hash = "72e8efdc0f4d1c0ac08502cb10706005f1053516934283871ebb81b47785634f304ce00cb8bb987adaf5ae325243c5649492a1443cdb4eb1ab04c7b4dd7f3d16"
+
+[update]
+[update.modrinth]
+mod-id = "uy4Cnpcm"
+version = "do4zQJJA"
